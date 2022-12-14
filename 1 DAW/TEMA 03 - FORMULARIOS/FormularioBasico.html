@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario Básico</title>
+    <link rel="shortcut icon" href="http://astronomia-udea.co/principal/sites/default/files/forms-icon.png">
+    <link rel="stylesheet" href="../CSS/Style.css">
+    <script src="../JavaScript/MyScript.js"></script>
+</head>
+
+<body>
+    <div id="block_1">
+        <div class="encabezado_1">Formulario Básico</div>
+        <div class="datos_personales_1">
+            <h3>Datos Personales</h3>
+            <label for="nombre">Nombre</label>
+            <input type="text" class="input_nombre" id="nombre" placeholder="Carlos">
+            <label for="apellido" class="label_apellido_1">1r Apellido</label>
+            <input type="text" class="input_apellido_1" id="apellido" placeholder="Araujo">
+            <label for="apellido" class="label_apellido_2">2r Apellido</label>
+            <input type="text" class="input_apellido_2" id="apellido" placeholder="Galván">
+        </div>
+
+        <div class="datos_personales_2">
+            <label for="dni">DNI</label>
+            <input type="text" class="input_dni" id="dni" placeholder="41625899Q">
+            <label for="edad" class="label_edad">Edad</label>
+            <input type="number" min="0" class="input_edad" id="edad" placeholder="29">
+            <hr>
+        </div>
+        
+        <div class="datos_personales_3">
+            <h3>Domicilio</h3>
+            <label for="direccion">Dirección</label>
+            <input type="text" class="input_direccion" id="direccion" placeholder="C / de Salvador Espriu Nº 31">
+            <label for="poblacion" class="label_poblacion">Población</label>
+            <input type="text" class="input_poblacion" id="poblacion" placeholder="Mollet del Vallès">
+            <label for="provincia" class="label_provincia">Provincia</label>
+            <input type="text" class="input_provincia" id="provincia" placeholder="Barcelona">
+        </div>
+
+        <div class="datos_personales_4">
+            <hr>
+            <h3>Contacto</h3>
+            <label for="telefono">Nº Teléfono</label>
+            <input type="text" class="input_telefono" id="telefono" placeholder="+34660056459">
+            <label for="email" class="label_email">E-mail</label>
+            <input type="email" class="input_email" id="email" placeholder="Carlos93.bcn@hotmail.com">
+        </div>
+    </div>
+    <input type="button" class="button_5" value="Volver Atrás" onClick="history.go(-1);">
+</body>
+
+</html>

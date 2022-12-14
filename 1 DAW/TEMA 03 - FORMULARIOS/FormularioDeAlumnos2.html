@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datos de los alumnos 2</title>
+    <link rel="shortcut icon" href="http://astronomia-udea.co/principal/sites/default/files/forms-icon.png">
+    <link rel="stylesheet" href="../CSS/Style.css">
+    <script src="../JavaScript/MyScript.js"></script>
+</head>
+
+<body>
+    <div id="block_5">
+        <div class="encabezado_1">Datos de los Alumnos (2)</div>
+        <h3 class="datos_entrada_2">Introduzca más datos de entrada:</h3>
+
+        <div class="datos_nacimiento_1">
+            <label for="nombre">Introduzca fecha de nacimiento:</label>
+            <input class="label" type="date" class="input_nombre_alumno" id="nacimiento" required>
+        </div>
+
+        <div class="curso">
+            <label for="nombre">Introduzca el curso:</label>
+            <select class="label" form="curso" id="curso">
+                <option value="">----------</option>
+                <option value="1º DAM">1º DAM</option>
+                <option value="2º DAM">2º DAM</option>
+                <option value="1º DAW">1º DAW</option>
+                <option value="2º DAW">2º DAW</option>
+                <option value="1º ASIX">1º ASIX</option>
+                <option value="2º ASIX">2º ASIX</option>
+            </select>
+            <hr>
+        </div>
+        <div class="materias_optativas">
+            <form>
+                <label for="nombre">Introduzca tres materias optativas:</label><br><br>
+                <input type="checkbox" id="ingles" name="optional_assignatures" value = "Inglés" required>
+                <label class="label" for="ingles"><b>Inglés</b></label>
+                <input type="checkbox" id="frances" name="optional_assignatures" value = "Francés"  required>
+                <label class="label" for="frances"><b>Francés</b></label>
+                <input type="checkbox" id="deporte" name="optional_assignatures" value = "Deporte" required>
+                <label class="label" for="deporte"><b>Deporte</b></label>
+                <input type="checkbox" id="astronomia" name="optional_assignatures" value = "Astronomia" required>
+                <label class="label" for="astronomia"><b>Astronomia</b></label>
+                <input type="checkbox" id="historia" name="optional_assignatures" value = "Historia" required>
+                <label class="label" for="historia"><b>Historia</b></label>
+                <input type="checkbox" id="programacion" name="optional_assignatures" value = "Programación" required>
+                <label class="label" for="programacion"><b>Programación</b></label>
+                <input type="checkbox" id="redes" name="optional_assignatures" value = "Redes" required>
+                <label class="label" for="redes"><b>Redes</b></label>
+            </form>
+            <hr>
+        </div>
+        <div class="turnos">
+            <form>
+                <label for="nombre">Introduzca el turno:</label><br><br>
+                <input type="radio" id="mañana" name="turn" value = "Mañana" required>
+                <label class="label" for="mañana"><b>Mañana</b></label>
+                <input type="radio" class="input_turno_tarde" id="tarde" name="turn" value = "Tarde" required>
+                <label class="label" for="tarde"><b>Tarde</b></label>
+                <input type="radio" class="input_turno_noche" id="noche" name="turn" value = "Noche" required>
+                <label class="label" for="noche"><b>Noche</b></label>
+        </div>
+
+        <div class="buttons_datos_2">
+            <hr>
+            <input type="reset" class="button_enviar_datos" onclick="enviarDatos2()" value="Enviar Datos">
+            <input type="reset" class="button_limpiar_datos" onclick="limpiarDatos2()" value="Limpiar Datos">
+            <input type="reset" class="button_cerrar_ventana" onclick="cerrarVentana2()" value="Cerrar Ventana">
+            <input type="reset" class="button_anterior_formulario" onclick="beforeFormulario()" value="Anterior Formulario">
+        </div>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datos de los alumnos 1</title>
+    <link rel="shortcut icon" href="http://astronomia-udea.co/principal/sites/default/files/forms-icon.png">
+    <link rel="stylesheet" href="../CSS/Style.css">
+    <script src="../JavaScript/MyScript.js"></script>
+</head>
+
+<body>
+    <div id="block_4">
+        <h3 class="datos_entrada_1">Introduzca datos de entrada:</h3>
+        <div class="encabezado_1">Datos de los Alumnos (1)</div>
+        <div class="datos_alumno_1">
+            <label for="nombre">Introduzca nombre completo del alumno:</label>
+            <input type="text" class="input_nombre_alumno" id="nombre" placeholder="Carlos Araujo Galván" required>
+        </div>
+
+        <div class="datos_alumno_2">
+            <label for="matricula">Introduzca número de la matrícula:</label>
+            <input type="text" class="input_numero_matricula" id="matricula" placeholder="193448G" required>
+        </div>
+
+        <div class="datos_alumno_3">
+            <label for="direccion">Introduzca la dirección:</label>
+            <input type="text" class="input_direccion_alumno" id="direccion" placeholder="C / de Salvador Espriu Nº 31" required>
+        </div>
+
+        <div class="datos_alumno_4">
+            <label for="población">Introduzca la población:</label>
+            <input type="text" class="input_poblacion_alumno" id="población" placeholder="Mollet del Vallès" required>
+        </div>
+
+        <div class="datos_alumno_5">
+            <label for="telefono">Introduzca el teléfono:</label>
+            <input type="text" class="input_telefono_alumno" id="telefono" placeholder="+34660056459" required>
+        </div>
+        <div class="datos_alumno_6">
+            <form>
+                <label for="sexo">Selecciona el sexo:</label>
+                <input type="radio" id="masculino" name="sex" value = "Masculino" required>
+                <label class="label" for="masculino"><b>Masculino</b></label>
+                <input type="radio" id="femenino" name="sex" value = "Femenino" required>
+                <label class="label" for="femenino"><b>Femenino</b></label>
+            </form>
+        </div>
+        <div class="buttons_datos_1">
+            <hr>
+            <input type="reset" class="button_enviar_datos" onclick="enviarDatos1()" value="Enviar Datos">
+            <input type="reset" class="button_limpiar_datos" onclick="limpiarDatos1()" value="Limpiar Datos">
+            <input type="reset" class="button_cerrar_ventana" onclick="cerrarVentana1()" value="Cerrar Ventana">
+            <input type="reset" class="button_siguiente_formulario" onclick="nextFormulario()" value="Siguiente Formulario">
+        </div>
+    </div>
+
+</body>
+
+</html>
