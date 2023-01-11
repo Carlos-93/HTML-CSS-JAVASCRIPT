@@ -6,7 +6,7 @@
 
 [1)](https://github.com/Carlos-93/HTML-CSS-JAVASCRIPT/blob/main/1%20DAW/TEMA%2001%20-%20LENGUAJE%20DE%20MARCADO%20XML/Ejercicio_01.xml) Escribe una programa que muestre un "Hello World" por pantalla.
 
-#### [TEMA 02 - PÁGINA WEB RESPONSIVE](https://github.com/Carlos-93/CPP/tree/main/1%20DAW/TEMA%2002%20-%20VIDEOJUEGO)
+#### [TEMA 02 - PÁGINA WEB RESPONSIVE](https://github.com/Carlos-93/HTML-CSS-JAVASCRIPT/tree/main/1%20DAW/TEMA%2002%20-%20P%C3%81GINA%20WEB%20CON%20RESPONSIVE)
 
 [1)](https://github.com/Carlos-93/CPP/blob/main/1%20DAW/TEMA%2002%20-%20VIDEOJUEGO/VideoJuego(1).cpp) Desarrolla un videojuego con tres personajes.
 
