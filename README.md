@@ -5,7 +5,7 @@
 ### TEMA 01 - LENGUAJE DE MARCADO XML
 ###### Ir a [TEMA 01](https://github.com/Carlos-93/HTML-CSS-JAVASCRIPT/tree/main/1%20DAW/TEMA%2001%20-%20XML)
 
-[1)](https://github.com/Carlos-93/CPP/blob/main/1%20DAW/TEMA%2001%20-%20HELLO%20WORLD/HelloWorld.cpp) Escribe una programa que muestre un "Hello World" por pantalla.
+[1)](https://github.com/Carlos-93/HTML-CSS-JAVASCRIPT/blob/main/1%20DAW/TEMA%2001%20-%20XML/Ejercicio_01.xml) Escribe una programa que muestre un "Hello World" por pantalla.
 
 ### TEMA 02 - Desarrollo de un videojuego
 ###### Ir a [TEMA 02](https://github.com/Carlos-93/CPP/tree/main/1%20DAW/TEMA%2002%20-%20VIDEOJUEGO)
