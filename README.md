@@ -14,6 +14,6 @@
 
 [1)](https://github.com/Carlos-93/CPP/blob/main/1%20DAW/TEMA%2003%20-%20VIDEOJUEGO%20CON%20FUNCIONES/VideoJuego(2).cpp) Modifica el videojuego anterior, añadiendo funciones.
 
-#### [TEMA 04 - DISEÑO BOOTSTRAP](https://github.com/Carlos-93/CPP/tree/main/1%20DAW/TEMA%2002%20-%20VIDEOJUEGO)
+#### [TEMA 04 - DISEÑO BOOTSTRAP](https://github.com/Carlos-93/HTML-CSS-JAVASCRIPT/tree/main/1%20DAW/TEMA%2004%20-%20BOOTSTRAP)
 
 [1)](https://github.com/Carlos-93/CPP/blob/main/1%20DAW/TEMA%2004%20-%20VIDEOJUEGO%20CON%20PAR%C3%81METROS/VideoJuego(3).cpp) Modifica el videojuego anterior, añadiendo funciones con parámetros.
