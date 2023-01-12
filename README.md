@@ -10,9 +10,7 @@
 
 Diseña tu propia página web para que se vea correctamente en tres tipos diferentes de dispositivos: Móvil, Tablet y PC.
 
-[HTML)](https://github.com/Carlos-93/HTML-CSS-JAVASCRIPT/blob/main/1%20DAW/TEMA%2002%20-%20P%C3%81GINA%20WEB%20CON%20RESPONSIVE/Index.html) 
-
-[CSS)](https://github.com/Carlos-93/HTML-CSS-JAVASCRIPT/blob/main/1%20DAW/TEMA%2002%20-%20P%C3%81GINA%20WEB%20CON%20RESPONSIVE/Style.css) 
+[(HTML)](https://github.com/Carlos-93/HTML-CSS-JAVASCRIPT/blob/main/1%20DAW/TEMA%2002%20-%20P%C3%81GINA%20WEB%20CON%20RESPONSIVE/Index.html) [(CSS)](https://github.com/Carlos-93/HTML-CSS-JAVASCRIPT/blob/main/1%20DAW/TEMA%2002%20-%20P%C3%81GINA%20WEB%20CON%20RESPONSIVE/Style.css) 
 
 #### [TEMA 03 - FORMULARIOS WEB](https://github.com/Carlos-93/HTML-CSS-JAVASCRIPT/tree/main/1%20DAW/TEMA%2003%20-%20FORMULARIOS)
 
